@@ -1,11 +1,8 @@
-这是一份为你优化后的 `README.md`。我引入了 Shields.io 风格的**技术栈勋章**，并重点重构了关于**如何编写与组织内容**的部分，帮助你更规范地维护博客。
-
----
 
 # OrcsaVik.github.io 个人博客
 
 <p align="center">
-<img src="./docs/public/logo.png" width="100" />
+<img src="./docs/public/icons/logo.png" width="100" />
 </p>
 
 <p align="center">
@@ -13,12 +10,13 @@
 </p>
 
 <p align="center">
-<img src="[https://img.shields.io/badge/VitePress-1.6.4-646cff?style=flat-square&logo=vite&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/VitePress-1.6.4-646cff%3Fstyle%3Dflat-square%26logo%3Dvite%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/Vue-3.5.26-42b883?style=flat-square&logo=vuedotjs&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Vue-3.5.26-42b883%3Fstyle%3Dflat-square%26logo%3Dvuedotjs%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/TypeScript-Latest-3178c6?style=flat-square&logo=typescript&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-Latest-3178c6%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/Search-Algolia-003dff?style=flat-square&logo=algolia&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Search-Algolia-003dff%3Fstyle%3Dflat-square%26logo%3Dalgolia%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/License-MIT-yellow?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow%3Fstyle%3Dflat-square)" />
+  <img src="https://img.shields.io/badge/VitePress-1.6.4-646cff?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-3.5.26-42b883?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Latest-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Search-Algolia-003dff?style=flat-square&logo=algolia&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
 </p>
+
 
 ---
 
